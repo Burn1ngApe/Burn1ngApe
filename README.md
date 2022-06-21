@@ -8,7 +8,7 @@ I`m Emil and I am a game developer, who developed and published 2 games on Steam
  -Plunger Boyz: https://store.steampowered.com/app/1801200/Plunger_Boyz/
 
 
-Skills: C#
+Skills: C#, Unity
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Burn1ngApe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/punkgrad)  
