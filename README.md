@@ -1,4 +1,4 @@
-(https://github.com/Burn1ngApe/Burn1ngApe/blob/454c2c62cdbe47c57ce5fd84042c19bf0757f7b0/Joly%20Ape%20(1).png)
+!(https://github.com/Burn1ngApe/Burn1ngApe/blob/454c2c62cdbe47c57ce5fd84042c19bf0757f7b0/Joly%20Ape%20(1).png)
 
 ### Hi there 👋, I am Emil
 #### Game Development
