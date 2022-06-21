@@ -1,3 +1,5 @@
+(https://github.com/Burn1ngApe/Burn1ngApe/blob/454c2c62cdbe47c57ce5fd84042c19bf0757f7b0/Joly%20Ape%20(1).png)
+
 ### Hi there 👋, I am Emil
 #### Game Development
 I`m Emil and I am a game developer, who developed and published 2 games on Steam under the name of JOLY APE. My main language is C# as I mainly work in Unity, but I also want to learn Python because I am really interested in machine learning and AI. 
